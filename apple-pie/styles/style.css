@@ -1,0 +1,19 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+}
+
+#titol {
+    font-size: 50px;
+    display: flex;
+    height: 200px;
+    text-align: center;
+    flex-direction: column;
+    align-items: center;
+    background-image: ;
+}
+
+#imatge {
+    width: 600px;
+    
+}
